@@ -1,0 +1,19 @@
+Final Capital: 5323.01(532.30%)
+Total Trades: 51
+Profitable Trades: 21
+Losing Trades: 30
+Success Rate: 41.18%
+
+Most Profitable Trades:
+Date: 2024-06-24, Buy Price: 126.55, Sell Price: 118.09, Profit: 1759.16
+Date: 2024-02-20, Buy Price: 72.59, Sell Price: 69.43, Profit: 1080.47
+Date: 2023-06-23, Buy Price: 43.01, Sell Price: 42.19, Profit: 1059.35
+Date: 2024-10-30, Buy Price: 141.24, Sell Price: 139.32, Profit: 1016.27
+Date: 2021-11-26, Buy Price: 32.62, Sell Price: 31.45, Profit: 816.17
+
+Least Profitable Trades:
+Date: 2024-11-15, Buy Price: 146.75, Sell Price: 141.97, Profit: -324.36
+Date: 2025-01-13, Buy Price: 135.91, Sell Price: 133.23, Profit: -332.69
+Date: 2022-05-09, Buy Price: 18.65, Sell Price: 16.92, Profit: -356.89
+Date: 2024-09-03, Buy Price: 119.35, Sell Price: 107.98, Profit: -450.81
+Date: 2025-01-27, Buy Price: 142.62, Sell Price: 118.42, Profit: -1009.04
